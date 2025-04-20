@@ -2,7 +2,7 @@
 ## BLUESKY KARŞILIKLI BEĞENİ VE YORUM BOTU
 ![](/pp.png)
 >[!NOTE]
->karsilik.py dosyasında 150. satırdaki TARGET_POST_URL kısmını hedef postunuz ile değiştirin. \n
+>karsilik.py dosyasında 150. satırdaki TARGET_POST_URL kısmını hedef postunuz ile değiştirin.
 >Bu postu her gün 4 defa kontrol edecek ve etkileşime göre işlem yapacaktır.
 >Diğer kısımlarda değişiklik yapmadan sadece .env dosyasındaki bilgileri girmeniz gerekmektedir.
 >İstediğiniz telegram kanalına, kendi oluşturduğunuz botu ekledikten sonra.
