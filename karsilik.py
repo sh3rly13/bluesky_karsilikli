@@ -159,7 +159,7 @@ if not TARGET_POST_URI:
 
 # Günlük çalışma zamanları (günde 4 kez)
 DAILY_RUN_TIMES = [
-    "12:54",  # Öğle
+    "12:00",  # Öğle
     "14:00",  # Öğleden sonra
     "17:00",  # Akşam
     "19:00"   # Gece
