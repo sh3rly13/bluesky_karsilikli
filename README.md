@@ -1,5 +1,5 @@
 ![](/merhaba.png)
-## BLUESKY KARŞILIKLI BEĞENİ VE YORUM BOTU
+# BLUESKY KARŞILIKLI BEĞENİ VE YORUM BOTU
 ![](/pp.png)
 >[!NOTE]
 >karsilik.py dosyasında 150. satırdaki TARGET_POST_URL kısmını hedef postunuz ile değiştirin.
